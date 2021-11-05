@@ -1,2 +1,4 @@
 django
 Pillow
+wheel
+psycopg2 #sudo apt-get install libpq-dev

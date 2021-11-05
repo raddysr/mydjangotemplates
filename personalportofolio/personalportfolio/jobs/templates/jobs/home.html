@@ -1,0 +1,8 @@
+<h1>All my jobs: </h1>
+
+{% for job in jobs.all %}
+    <img src="{{ job.image }}" alt="image">
+    <h2>{{ job.summary }}</h2>
+
+{% endfor%}
+
