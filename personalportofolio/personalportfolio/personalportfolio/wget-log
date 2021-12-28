@@ -1,0 +1,11 @@
+--2021-12-18 20:56:05--  https://www.domain-name.com/index.php?parameter=extrap
+Resolving www.domain-name.com (www.domain-name.com)... 141.8.224.143
+Connecting to www.domain-name.com (www.domain-name.com)|141.8.224.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51 [text/html]
+Saving to: ‘/dev/null’
+
+/dev/null                         0%[                                                      ]       0  --.-KB/s               /dev/null                       100%[=====================================================>]      51  --.-KB/s    in 0s      
+
+2021-12-18 20:56:07 (18.7 MB/s) - ‘/dev/null’ saved [51/51]
+
